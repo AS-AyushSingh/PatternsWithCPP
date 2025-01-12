@@ -1,0 +1,1 @@
+These repository consists of diffrent codes in c++ programing language use to create differnt patterns which many newbie programmers learn to build their logic for programming.It would be a great if you help me to add more different patterns in this repository.
